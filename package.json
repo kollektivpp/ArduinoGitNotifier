@@ -5,8 +5,7 @@
   "description": "",
 
   "dependencies": {
-    "githubhook": "0.5.x",
-    "connect-githubhook": "0.1.x",
-    "express": "3.x.x"
+    "express": "3.x.x",
+    "bluetooth-serial-port": "1.x.x"
   }
 }
