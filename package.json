@@ -1,0 +1,11 @@
+{
+  "author": "Gernot Labahn, Markus Paeschke",
+  "name": "ArduinoGitNotifier",
+  "version": "0.0.1",
+  "description": "",
+
+  "dependencies": {
+    "express": "3.x.x",
+    "bluetooth-serial-port": "1.x.x"
+  }
+}
