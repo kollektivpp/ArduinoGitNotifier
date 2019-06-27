@@ -5,7 +5,7 @@
   "description": "",
 
   "dependencies": {
-    "express": "3.x.x",
+    "express": ">=3.11.0",
     "bluetooth-serial-port": "1.x.x"
   }
 }
